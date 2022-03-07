@@ -1,4 +1,5 @@
 #Inspectorate management system
-This is a java web application  which can be used by the inspectorate of companies and their measuring scales, to register enterprises in their domain, 
-to check their instruments according to the stipulated standard thereby ensuring compliance to a given standard.
-
+This is a java web application  which can be used by the inspectorate of companies to check their measuring scales against the approved standard of measurement.   
+It enables them  register the details of the enterprises/ companies using such instruments, take records of the readings of their measuring instruments and compare it against the standard
+It enables it has users  management capability.
+The system can also generate report of on various inspection undertaken.
